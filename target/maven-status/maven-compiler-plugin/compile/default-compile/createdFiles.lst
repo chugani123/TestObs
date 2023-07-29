@@ -1,0 +1,6 @@
+com\testingobs\spring\service\LoginService.class
+com\testingobs\spring\dto\Student.class
+com\testingobs\spring\dto\User.class
+com\testingobs\spring\controller\LoginController.class
+com\testingobs\spring\dto\DataTable.class
+com\testingobs\spring\exception\LoginException.class
